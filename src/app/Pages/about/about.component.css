@@ -1,0 +1,31 @@
+.breadcrumb_part {
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #B08EAD;
+    text-align: center;
+}
+
+.about_us_content h5{
+    text-align: left;
+    margin-left: 20%;
+    font-size: 30px;
+    line-height: 20px;
+    color: #B08EAD;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about_us_content h3 {
+    font-style: italic;
+    font-size: 18px;
+    margin-left: 20%;
+
+}
+.about_us_video{
+    text-align: center;
+}
+
+.about_us{
+    margin-top: 10%;
+}

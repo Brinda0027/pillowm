@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tourism-c10cd": {
+      "hosting": {
+        "pmart": [
+          "tourism-c10cd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tourism-c10cd"
+  }
+}

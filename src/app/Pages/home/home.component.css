@@ -1,0 +1,123 @@
+.banner_img{
+    padding-left: 50%;
+    background-size: 100%;
+    margin-top: -20%;
+    
+}
+.banner_img
+.pattern_img {
+    position:center;
+    left: -133px;
+    margin-top: -20%;
+    right: 0px;
+}
+
+
+.banner_text_iner h1{
+    text-align:left;
+    padding-top: 10%;
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(127, 13, 123);
+    font-size: 50px;;
+}
+
+p{
+    margin-left: 10%;
+    font-size: medium;
+    color: rgb(63, 6, 62);
+    font-style: italic;
+}
+
+.btn_1{
+    margin-left: 20%;
+    font-size: medium;
+    box-sizing: border-box;
+    background-color: #B08EAD;
+    border: 10px solid #B08EAD;
+    text-transform: capitalize;
+    color: #fff;
+    text-decoration: none;
+   
+}
+
+ .single_product_img {
+    position: relative;
+    margin: 35px 0 0 35px;
+}
+ .single_product_img .product_overlay {
+    position: absolute;
+    left: -35px;
+    top: -35px;
+    z-index: -1;
+}
+
+.single_product_content h5 {
+    font-weight: 500;
+    font-size: 40px;
+    color: #B08EAD;
+    margin-left: 60%;
+    margin-top: -30%;
+}
+
+.single_product_content h2{
+    margin-left: 45%;
+    padding-left: 10%;
+    font-size: medium;
+    color: rgb(63, 6, 62);
+    font-style: italic;
+   
+}
+.btn_3{
+    margin-left: 65%;
+    padding-left:- 1%;
+    font-size: medium;
+    box-sizing:content-box;
+    background-color: #B08EAD;
+    border: 5px solid #B08EAD;
+    text-transform: capitalize;
+    color: #fff;
+    text-decoration: none;
+}
+
+.single_product_img .bb {
+    position: relative;
+    margin: 35px 0 0 35px;
+    right: -650px;
+    top: -350px;
+    
+}
+
+ .single_product_img .product_overlay1{
+    position: absolute;
+    right: -25px;
+    top: -350px;
+    z-index: -1;
+}
+
+.banner_text_iner1 h1{
+    text-align:left;
+    padding-top: 30%;
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(127, 13, 123);
+    font-size: 50px;;
+}
+
+.end {
+    text-align: center;
+    color: antiquewhite;
+    padding-top: 1500%;
+    margin-top: -20%;
+    padding: 64px;
+    padding-left: -10%;
+    margin-right: 10%;
+    font-size: x-large;
+    font-style: italic;
+    margin-left: 10%;
+
+}
+
+
+
+
